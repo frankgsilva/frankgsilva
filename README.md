@@ -2,7 +2,7 @@
 
 Me chamo Franklyn, sou um aspirante em ciência de dados, estou aprendendo Python voltado a análise de dados. 
 
-Estou cursando Ciência de Dados pela faculdade Cruzeiro do Sul 🎓. A principio esse é o início da minha jornada na área de TI 💻
+Estou cursando Ciência de Dados pela Faculdade Cruzeiro do Sul 🎓. A princípio esse é o início da minha jornada na área de TI 💻
 
 
 - 🌱 Atualmente estou aprendendo: Python
