@@ -1,14 +1,39 @@
-### Olá 👋
+[![author](https://img.shields.io/badge/author-frankgsilva-red.svg)](https://www.linkedin.com/in/franklynguimaraes/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/frankgsilva)
 
-Primeiramente fico muito feliz que você tenha chegado até aqui!
+<p align="center">
+  <img src="https://github.com/frankgsilva/python_do_zero/blob/main/frank-capa2.png" height="280" width="1920">
+</p>
 
-Graduando em Ciência de Dados pela Cruzeiro do Sul. Gosto de sempre buscar novos conhecimentos e desafios.
+# Frank G. Silva
+*Analista de Dados*
 
-O meu desejo pelo desenvolvimento de minhas habilidades em Ciência de Dados se da através da resolução de cases reais pois entendo que as decisões devem ser orientada a dados sempre, tem sido o que me move dia após dia em direção aos meus objetivos. Neste contexto busco colocar a "mão na massa", ter uma mente aberta. Outra coisa que gosto muito é trabalhar minhas Softs Skills, acredito que lidar com pessoas e situações é essencial acima de qualquer coisa.
+Graduando em Ciência de Dados pela Cruzeiro do Sul, com experiência em Power BI, SQL, Python e R. Construo painéis e relatórios analíticos, seguindo as melhores práticas, desde o levantamento de requisitos até a publicação online e análise dos dados, utilizando técnicas de Data Storytelling em busca da melhor solução para os clientes.
 
-TEMAS DE INTERESSE: Tecnologia, Comunicação, Inovação, Digitalização, Machine Learning, Ciência de Dados, Business Intelligence, Analytics, SQL, Python, R, Power BI, Visualização de Dados, Estatística
+Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, Machine Learning, Negócios e Comunicação, com o objetivo de entender melhor como os dados se comportam e extrair informações valiosas deles. Desta forma, consigo auxiliar a tomada de decisão através de boas estórias e análises! A
 
-- 💻 Estou procurando colaborar em: projetos voltados a ciência de dados
-- ✍🏼 Confira meu blog sobre ciência de dados [Os Dados Falam](https://os-dados-falam.medium.com/)
-- 🌐 Como chegar até mim: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/frankgsilva)](https://github.com/frankgsilva)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franklynguimaraes/)](https://www.linkedin.com/in/franklynguimaraes/)
+Experiências em: Python, R, Power BI, SQL, Análise de Dados.
+
+**Links:**
+
+* [LinkedIn](https://www.linkedin.com/in/franklynguimaraes/)
+* [Medium](https://os-dados-falam.medium.com/)
+* [Site(Portfólio)](#)
+
+
+## Projetos:
+Veja os projetos publicados por mim:
+
+## Análise Exploratória: (Em Construção)
+* **Análise dos Dados do Airbnb**
+* **Análise da Violência no Rio de Janeiro**
+
+## Python: (Em Construção)
+* [**Analisando Dados Com Python**](https://github.com/frankgsilva/python_do_zero/blob/main/analisandoDadosComPython/analisandoDadosDaEmpresa.ipynb)
+* **Análise de Dados do Gmail**
+
+## R: (Em Construção)
+
+## Dashboards (Power BI): (Em Construção)
+
+
+## Dashboards (Tableau): (Em Construção)
