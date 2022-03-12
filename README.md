@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-frankgsilva-red.svg)](https://www.linkedin.com/in/franklynguimaraes/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/frankgsilva)
 
 <p align="center">
-  <img src="https://github.com/frankgsilva/python_do_zero/blob/main/frank-capa2.png" height="280" width="1920">
+  <img src="https://github.com/frankgsilva/python-do-zero/blob/main/frank-capa2.png" height="280" width="1920">
 </p>
 
 # Frank G. Silva
