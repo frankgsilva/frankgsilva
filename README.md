@@ -33,6 +33,14 @@ Veja os projetos publicados por mim:
 
 ## R: (Em Construção)
 
+## Dashboards (Excel): (Em Construção)
+
+* **Dashboard de Call Center no Excel**
+* **Dashboard RH**
+* **Dashboard Estoque**
+* **Dashboard Vendas**
+* **Dashboard Financeiro**
+
 ## Dashboards (Power BI): (Em Construção)
 
 
