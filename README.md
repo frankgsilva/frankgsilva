@@ -30,6 +30,8 @@ Veja os projetos publicados por mim:
 ## Python: (Em Construção)
 * [**Analisando Dados Com Python**](https://github.com/frankgsilva/python_do_zero/blob/main/analisandoDadosComPython/analisandoDadosDaEmpresa.ipynb)
 * **Análise de Dados do Gmail**
+* **Mineração e Análise de Dados Linkedin**
+* **Mineração e Análise de Dados Facebook**
 
 ## R: (Em Construção)
 
