@@ -43,6 +43,10 @@ Veja os projetos publicados por mim:
 * **Dashboard Vendas**
 * **Dashboard Financeiro**
 
+## SQL:
+
+* [**Analisando Dados da Gamers Club**]
+
 ## Dashboards (Power BI): (Em Construção)
 
 
