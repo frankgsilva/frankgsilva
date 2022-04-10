@@ -45,7 +45,7 @@ Veja os projetos publicados por mim:
 
 ## SQL:
 
-* [**Analisando Dados da Gamers Club**]
+* [**Analisando Dados da Gamers Club**](https://github.com/frankgsilva/Projeto-gamers-club)
 
 ## Dashboards (Power BI): (Em Construção)
 
