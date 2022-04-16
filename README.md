@@ -11,7 +11,7 @@ Graduando em Ciência de Dados pela Cruzeiro do Sul, com experiência em Power B
 
 Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, Machine Learning, Negócios e Comunicação, com o objetivo de entender melhor como os dados se comportam e extrair informações valiosas deles. Desta forma, consigo auxiliar a tomada de decisão através de boas estórias e análises! A
 
-Experiências em: Python, R, Power BI, SQL, Análise de Dados.
+Experiência em: Python, R, Power BI, SQL, Excel, Análise de Dados.
 
 **Links:**
 
