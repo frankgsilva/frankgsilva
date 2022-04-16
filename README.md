@@ -20,7 +20,7 @@ Experiência em: Python, R, Power BI, SQL, Excel, Análise de Dados.
 * [Site(Portfólio)](#)
 
 
-## Projetos:
+# Projetos
 Veja os projetos publicados por mim:
 
 ## Análise Exploratória: (Em Construção)
