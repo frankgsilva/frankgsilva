@@ -46,9 +46,9 @@ Veja os projetos publicados por mim:
 ## SQL:
 
 * [**SQL Do Zero Gamers Club**](https://github.com/frankgsilva/Projeto-gamers-club)
-* **SQL e Banco de Dados para DataScience**
-* **Business Intelligence com SQL Server**
-* **Business Intelligence SQL - ETL Integration Services**
+* [**SQL e Banco de Dados para Data Science**](#)
+* [**Business Intelligence com SQL Server**](#)
+* [**Business Intelligence SQL - ETL Integration Services**](#)
 
 ## Dashboards (Power BI): (Em Construção)
 
