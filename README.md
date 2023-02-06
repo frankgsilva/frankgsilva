@@ -1,5 +1,3 @@
-[![author](https://img.shields.io/badge/author-frankgsilva-red.svg)](https://www.linkedin.com/in/franklynguimaraes/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/frankgsilva)
-
 # Frank G. Silva
 
 _Front-End Developer_
