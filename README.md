@@ -1,56 +1,35 @@
 [![author](https://img.shields.io/badge/author-frankgsilva-red.svg)](https://www.linkedin.com/in/franklynguimaraes/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/frankgsilva)
 
-<p align="center">
-  <img src="https://github.com/frankgsilva/python-do-zero/blob/main/frank-capa2.png" height="280" width="1920">
-</p>
-
 # Frank G. Silva
-*Analista de Dados*
 
-Graduando em Ciência de Dados pela Cruzeiro do Sul, com experiência em Power BI, SQL, Python e R. Construo painéis e relatórios analíticos, seguindo as melhores práticas, desde o levantamento de requisitos até a publicação online e análise dos dados, utilizando técnicas de Data Storytelling em busca da melhor solução para os clientes.
+_Front-End Developer_
 
-Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, Machine Learning, Negócios e Comunicação, com o objetivo de entender melhor como os dados se comportam e extrair informações valiosas deles. Desta forma, consigo auxiliar a tomada de decisão através de boas estórias e análises! A
+Olá, sou um iniciante em programação Front - End com mais de 2 anos de experiência como Analista de Suporte Técnico. Tenho um forte conhecimento em elaboração de relatórios operacionais, tendo desenvolvido vários projetos com sucesso, incluindo análises detalhadas e visualizações impactantes. Além disso, tenho experiência na criação de treinamentos operacionais eficazes para equipes, utilizando meu conhecimento técnico e comunicação clara.
 
-Experiência em: Python, R, Power BI, SQL, Excel, Análise de Dados.
+Sou habilidoso em automação de processos operacionais, tendo utilizado tecnologias como VBA, Python e Power Query para otimizar e agilizar tarefas repetitivas. Além disso, tenho capacidade de gestão e elaboração de processos, o que me permitiu contribuir para a melhoria da eficiência e qualidade dos serviços prestados pela empresa.
+
+Ademais, tenho conhecimento sobre a metodologia de gerenciamento de serviços de TI ITIL V4.
+
+Agora, busco uma oportunidade para colocar minhas habilidades e conhecimentos em prática como programador front-end.
+
+Conhecimento em:
+
+- JavaScript
+- CSS
+- HTML
+- Python
+
+Contatos:
+
+- Whatsapp: encurtador.com.br/iSUZ2
+- Email: frankguima@outlook.com
 
 **Links:**
 
-* [LinkedIn](https://www.linkedin.com/in/franklynguimaraes/)
-* [Medium](https://os-dados-falam.medium.com/)
-* [Site(Portfólio)](#)
-
+- [LinkedIn](https://www.linkedin.com/in/franklynguimaraes/)
 
 # Projetos
+
 Veja os projetos publicados por mim:
 
-## Análise Exploratória: (Em Construção)
-* **Análise dos Dados do Airbnb**
-* **Análise da Violência no Rio de Janeiro**
-
-## Python: (Em Construção)
-* [**Analisando Dados Com Python**](https://github.com/frankgsilva/python_do_zero/blob/main/analisandoDadosComPython/analisandoDadosDaEmpresa.ipynb)
-* **Análise de Dados do Gmail**
-* **Mineração e Análise de Dados Linkedin**
-* **Mineração e Análise de Dados Facebook**
-
-## R: (Em Construção)
-
-## Dashboards (Excel): (Em Construção)
-
-* **Dashboard de Call Center no Excel**
-* **Dashboard RH**
-* **Dashboard Estoque**
-* **Dashboard Vendas**
-* **Dashboard Financeiro**
-
-## SQL:
-
-* [**SQL Do Zero Gamers Club**](https://github.com/frankgsilva/Projeto-gamers-club)
-* [**SQL e Banco de Dados para Data Science**](#)
-* [**Business Intelligence com SQL Server**](#)
-* [**Business Intelligence SQL - ETL Integration Services**](#)
-
-## Dashboards (Power BI): (Em Construção)
-
-
-## Dashboards (Tableau): (Em Construção)
+## Em Construção
